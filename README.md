@@ -36,6 +36,11 @@ Inclui também uma página HTML personalizada para visualização limpa e modern
 ---
 
 ## 📁 Estrutura do Repositório
+/Seu-Projeto
+│
+├── Visualizador de Código - Murillo Alves.html
+├── Visualizador de Código - Murillo - Alves_files/
+└── README.md
 
 
 ---
