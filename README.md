@@ -19,7 +19,7 @@ Inclui também uma página HTML personalizada para visualização limpa e modern
 
 ## 🖥️ Pré-visualização do projeto online
 
-🔗 **Acesse aqui:** *(insira seu link do Netlify ou GitHub Pages)*
+🔗 **Acesse aqui:** (https://github.com/mirillo27982/visualizador-de-c-digo.git)
 
 ---
 
